@@ -1,0 +1,10 @@
+git clone https://github.com/Varshaofficial90/GtAuomationwithPython.git
+git config --global user.email "varshaofficial90@gmail.com"
+
+  git config --global user.name "varshaofficial90"
+
+
+git commit -m "adding first file to the repo"
+
+
+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
